@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace <username> with GitHub usernam ###
   ###############################################
   DOCKER_IMAGE_NAME: kkumar212-azure-ttt
   AZURE_WEBAPP_NAME: kkumar212-ttt-app
